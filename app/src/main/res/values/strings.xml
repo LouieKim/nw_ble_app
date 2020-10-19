@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NineWatt\nBeacon</string>
+    <string name="str_main_option">Option</string>
+    <string name="str_main_device">디바이스 등록</string>
+    <string name="str_main_history">사용량 보기</string>
+    <string name="str_main_send">디바이스 데이터 전송</string>
+    <string name="str_beacon_set">디바이스 등록</string>
+    <string name="str_beacon_reset">디바이스 재등록</string>
+    <string name="str_beacon_setting">디바이스 등록 중</string>
+    <string name="str_beacon_scan">S C A N</string>
+</resources>
